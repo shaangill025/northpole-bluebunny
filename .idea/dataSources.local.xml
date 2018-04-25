@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="ds_store_test@ewdc.mysql.database.azure.com" uuid="52449fc7-21bb-4167-8608-e573a223d327">
+      <database-info product="MySQL" version="5.6.26.0" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.46 ( Revision: 9cc87a48e75c2d2e87c1a293b2862ce651cb256e )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>ssgill@ewdc</user-name>
+      <introspection-schemas>*:ds_store_test</introspection-schemas>
+    </data-source>
+  </component>
+</project>
